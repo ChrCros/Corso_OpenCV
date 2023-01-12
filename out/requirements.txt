@@ -1,0 +1,4 @@
+cv==1.0.0
+cv2operator==1.0.1
+numpy==1.24.0
+opencv-python==4.5.3.56
